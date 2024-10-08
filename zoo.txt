@@ -1,0 +1,9 @@
+ID:a21,name:aetos,ομοταξία:Aves,Weight:15.0,max age:77
+ID:a22,name:per,ομοταξία:Fish,Weight:2.0,max age:3
+ID:v4,name:vatraxos,ομοταξία:Amphibian,Weight:5.0,max age:15
+ID:p21,name:peteinos,ομοταξία:Aves,Weight:77.0,max age:77
+ID:d3,name:sd,ομοταξία:Fish,Weight:5.0,max age:4.0
+ID:g22,name:gypas,ομοταξία:Fish,Weight:77.0,ηλικία76.0
+ID:g11,name:gipas,ομοταξία:Aves,Weight:15.0,max age:15.0
+ID:d32,name:k,ομοταξία:Fish,Weight:77.0,max age:29.0
+ID:f33,name:kg,ομοταξία:Fish,Weight:77.0,max age:5.0
